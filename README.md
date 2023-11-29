@@ -84,3 +84,5 @@ Template (Admin Case)
 
 And those are all of the pages of the website, all other pieces of code should imediately kick the user to either the login screen or the homepage when their job is done.
 I also provided explanations of how the code works and what segments of code do in the files them selves, so please look at the comments in the code for a more detailed explination.
+
+To see the whole github post please visit https://github.com/Doorknob223/Final-Project/tree/main (this is my account)
