@@ -83,3 +83,4 @@ Template (Admin Case)
 ![Screenshot (21)](https://github.com/Doorknob223/Final-Project/assets/104516891/0c016c01-d83c-44b4-ac50-583d9c2d6d36)
 
 And those are all of the pages of the website, all other pieces of code should imediately kick the user to either the login screen or the homepage when their job is done.
+I also provided explanations of how the code works and what segments of code do in the files them selves, so please look at the comments in the code for a more detailed explination.
